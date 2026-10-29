@@ -1,0 +1,14 @@
+.env
+backend/.env
+backend/node_modules/
+backend/dist/
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/android/local.properties
+mobile/android/.gradle/
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+mobile/ios/Flutter/Generated.xcconfig
